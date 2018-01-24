@@ -1,9 +1,12 @@
-# basic options
-title: 
+# basic options 
+title: Here and There
 author: Zekarias M>
 email: zekariasmulu@gmail.com
 github_username:  ZekariasM
+gem "github-pages", group: :jekyll_plugins
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
+show_downloads: "true" 
+#google_analytics: [Your Google Analytics tracking ID]
