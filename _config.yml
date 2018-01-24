@@ -1,0 +1,11 @@
+# basic options
+title: New-Testing-Blog
+author: Zekarias M>
+email: zekariasmulu@gmail.com
+description: web developing training 
+twitter_username: jekyllrb
+github_username:  ZekariasM
+
+# Build settings
+markdown: kramdown
+theme: minima
