@@ -10,5 +10,7 @@ gem "github-pages", group: :jekyll_plugins
 markdown: kramdown
 theme: jekyll-theme-tactile
 url: https://zekariasm.io
+source:      _source
+destination: _deploy
 #show_downloads: "true" 
 #google_analytics: [Your Google Analytics tracking ID]
