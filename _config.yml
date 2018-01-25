@@ -9,6 +9,6 @@ gem "github-pages", group: :jekyll_plugins
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
-url: https://example.com
+url: https://zekariasm.io
 #show_downloads: "true" 
 #google_analytics: [Your Google Analytics tracking ID]
